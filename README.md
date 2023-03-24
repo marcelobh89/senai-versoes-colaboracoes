@@ -33,3 +33,5 @@ https://github.com/[usuario]/[nome-projeto].git
 - [ ] B
 - [ ] C
 ---
+
+outra alteração
