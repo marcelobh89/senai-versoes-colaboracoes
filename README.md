@@ -36,4 +36,4 @@ https://github.com/[usuario]/[nome-projeto].git
 
 outra alteração
 
-lembrei do comando: git status
+lembrei do comando: git status 2
